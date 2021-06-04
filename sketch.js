@@ -10,7 +10,7 @@ var rand;
 var maxDrops=100;
 
 var thunderCreatedFrame=0;
-
+//adding comments
 function preload(){
     thunder1 = loadImage("thunderbolt/1.png");
     thunder2 = loadImage("thunderbolt/2.png");
